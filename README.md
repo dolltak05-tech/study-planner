@@ -159,6 +159,4 @@ For issues or questions:
 3. Verify Python and dependency versions
 4. Check for error messages in the console
 
-## License
 
-This project is provided as is, without any warranties. You are free to modify and use it for personal or educational purposes.
